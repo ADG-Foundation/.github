@@ -22,7 +22,7 @@ Austria, ZVR 1623308211.
 * [In English](Statutes_of_the_Association_11112024.pdf)
 * [In German](Vereinsstatuten_09112024.pdf)
 
-##Important Notice
+## Important Notice
 
 Dear Members,
 We are excited to announce the first general assembly, which will be held on December 12, 2024 at 10:00 Central European Time via video conference. Please find the [provisial agenda](Agenda_General_Assembly_16122024.pdf), which will be updated regularly.
