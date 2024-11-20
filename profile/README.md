@@ -25,4 +25,4 @@ Austria, ZVR 1623308211.
 ## Important Notice
 
 Dear Members,
-We are excited to announce the first general assembly, which will be held on December 12, 2024 at 10:00 Central European Time via video conference. Please find the [provisial agenda](Agenda_General_Assembly_16122024.pdf), which will be updated regularly.
+We are excited to announce the first general assembly, which will be held on December 16, 2024 at 10:00 Central European Time via video conference. Please find the [provisional agenda](Agenda_General_Assembly_16122024.pdf), which will be updated regularly.
