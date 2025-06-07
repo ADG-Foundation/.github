@@ -1,6 +1,7 @@
-# ADG Foundation (Working Group on Automated Deduction in Geometry)
+# ADG Foundation
 
-This is the official GitHub repository of [ADG Foundation](https://adg-foundation.info).
+This is the official GitHub repository of [ADG Foundation](https://adg-foundation.info),
+a Working Group on Automated Deduction in Geometry.
 
 ## The ADG Library
 
@@ -18,21 +19,22 @@ a work in progress.
 ## Provers supported by ADG
 
 ADG Foundation regularly examines, discusses and evaluates high quality
-computer software to study automated deduction in geometry. In our main focus
+computer software written to study automated deduction in geometry. In our main focus
 are the following software, but this list can be extended in the future.
-Most importantly, the pieces of software listed here are supported in
+Most importantly, the items listed here are supported in
 the ADG Library by considering them de facto standards and providing
 importers and exporters for them:
 
-* [GCLC](https://poincare.matf.bg.ac.rs/~janicic/gclc/), "Geometry Constructions -> LaTeX Converter",
+* [GCLC](https://poincare.matf.bg.ac.rs/~janicic/gclc/), “Geometry Constructions →
+  [LaTeX](https://www.latex-project.org/) Converter”,
   a tool for visualizing geometry, and for producing mathematical illustrations,
   extended with the help of automated theorem provers.
 * [Java Geometry Expert](https://github.com/ADG-Foundation/Java-Geometry-Expert),
   a graphical tool to study proofs of geometry theorems in Euclidean geometry.
   We store a stable version of the
-  [currently maintained fork](https://github.com/kovzol/Java-Geometry-Expert) and are looking
+  [currently maintained fork](https://github.com/kovzol/Java-Geometry-Expert) and look
   forward to releasing new versions on this page. Also, we suggest trying
-  an [online version](https://matek.hu/zoltan/jgex-cheerpj) powered by CheerpJ.
+  an [online version](https://matek.hu/zoltan/jgex-cheerpj) powered by [CheerpJ](https://cheerpj.com/).
 * [GeoGebra Discovery](https://github.com/ADG-Foundation/geogebra-discovery) is a fork
   of an [experimental version](https://github.com/kovzol/geogebra-discovery) of the
   dynamic mathematics software [GeoGebra](https://www.geogebra.org). It allows the user
